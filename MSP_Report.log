@@ -1,0 +1,1264 @@
+2023-01-04 11:50:05,155 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:05,284 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-01-04 11:50:05,287 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:06,150 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-01-04 11:50:06,269 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:07,051 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-01-04 11:50:07,189 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:07,938 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-01-04 11:50:08,013 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:08,703 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-01-04 11:50:08,774 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:09,586 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-01-04 11:50:09,704 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:10,362 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-01-04 11:50:10,457 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:11,271 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-01-04 11:50:11,353 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:12,084 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-01-04 11:50:12,255 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:12,961 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-01-04 11:50:13,100 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:13,898 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-01-04 11:50:14,056 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:14,534 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-01-04 11:50:14,889 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:15,163 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems HTTP/1.1" 301 None
+2023-01-04 11:50:15,641 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems/ HTTP/1.1" 200 None
+2023-01-04 11:50:15,768 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:16,009 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=81495 HTTP/1.1" 301 None
+2023-01-04 11:50:16,326 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=81495 HTTP/1.1" 200 932
+2023-01-04 11:50:16,328 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:16,573 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=76842,75913,75912,75911,75910,75909,75908,75907,75674,69878 HTTP/1.1" 301 None
+2023-01-04 11:50:17,012 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=76842,75913,75912,75911,75910,75909,75908,75907,75674,69878 HTTP/1.1" 200 None
+2023-01-04 11:50:17,017 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:17,263 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69872,69871,69870,69869,69868,69867,69866,69865,69864,69863 HTTP/1.1" 301 None
+2023-01-04 11:50:17,578 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69872,69871,69870,69869,69868,69867,69866,69865,69864,69863 HTTP/1.1" 200 None
+2023-01-04 11:50:17,590 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:17,840 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69862,69861,69860,69859,69858,69857,69647 HTTP/1.1" 301 None
+2023-01-04 11:50:18,114 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69862,69861,69860,69859,69858,69857,69647 HTTP/1.1" 200 None
+2023-01-04 11:50:18,117 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:18,354 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=81493 HTTP/1.1" 301 None
+2023-01-04 11:50:18,612 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=81493 HTTP/1.1" 200 None
+2023-01-04 11:50:18,622 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:18,859 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=79847,76889,76883,76840,75877,75876,75875,75874,75873,75872 HTTP/1.1" 301 None
+2023-01-04 11:50:19,178 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=79847,76889,76883,76840,75877,75876,75875,75874,75873,75872 HTTP/1.1" 200 None
+2023-01-04 11:50:19,190 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:19,440 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75871,75870,75869,75868,75519,75204,70246,69841,69838,69837 HTTP/1.1" 301 None
+2023-01-04 11:50:19,743 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75871,75870,75869,75868,75519,75204,70246,69841,69838,69837 HTTP/1.1" 200 None
+2023-01-04 11:50:19,746 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:20,001 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 301 None
+2023-01-04 11:50:20,303 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 200 None
+2023-01-04 11:50:20,316 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:20,556 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 301 None
+2023-01-04 11:50:20,840 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 200 None
+2023-01-04 11:50:20,845 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:21,082 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 301 None
+2023-01-04 11:50:21,349 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 200 None
+2023-01-04 11:50:21,351 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:21,604 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=81494 HTTP/1.1" 301 None
+2023-01-04 11:50:21,919 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=81494 HTTP/1.1" 200 999
+2023-01-04 11:50:21,922 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:22,167 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=76875,76874,76860,76841,76744,76743,76742,76741,76740,76739 HTTP/1.1" 301 None
+2023-01-04 11:50:22,482 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=76875,76874,76860,76841,76744,76743,76742,76741,76740,76739 HTTP/1.1" 200 None
+2023-01-04 11:50:22,486 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:22,733 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=75914,75906,75669,75657,75656,75655,69856,69855,69854,69853 HTTP/1.1" 301 None
+2023-01-04 11:50:23,038 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=75914,75906,75669,75657,75656,75655,69856,69855,69854,69853 HTTP/1.1" 200 None
+2023-01-04 11:50:23,049 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:23,301 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69852,69851,69850,69849,69848,69847,69846,69845,69844,69843 HTTP/1.1" 301 None
+2023-01-04 11:50:23,617 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69852,69851,69850,69849,69848,69847,69846,69845,69844,69843 HTTP/1.1" 200 None
+2023-01-04 11:50:23,620 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-04 11:50:23,863 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69809 HTTP/1.1" 301 None
+2023-01-04 11:50:24,125 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69809 HTTP/1.1" 200 988
+2023-01-04 11:50:24,133 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:24,221 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-01-04 11:50:24,226 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:24,899 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-01-04 11:50:25,094 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:26,017 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-01-04 11:50:26,107 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:27,075 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-01-04 11:50:27,156 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:27,840 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-01-04 11:50:27,933 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:28,564 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-01-04 11:50:28,689 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:29,379 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-01-04 11:50:29,547 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:30,284 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-01-04 11:50:30,363 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:31,094 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-01-04 11:50:31,171 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:31,933 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-01-04 11:50:32,041 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:32,748 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-01-04 11:50:32,862 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:33,460 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-01-04 11:50:33,533 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:33,919 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10650 HTTP/1.1" 200 None
+2023-01-04 11:50:33,921 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Gary Baker and Associates
+2023-01-04 11:50:33,921 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Single Client Environment  --- Check Inspector Name'
+2023-01-04 11:50:33,922 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:34,103 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10631 HTTP/1.1" 200 None
+2023-01-04 11:50:34,106 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Gant, McGee & Baber
+2023-01-04 11:50:34,106 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> '2206'
+2023-01-04 11:50:34,108 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:34,301 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10662 HTTP/1.1" 200 None
+2023-01-04 11:50:34,306 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Foundations of Texoma
+2023-01-04 11:50:34,307 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:35,126 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10659 HTTP/1.1" 200 None
+2023-01-04 11:50:35,130 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dr. Caras
+2023-01-04 11:50:35,131 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:35,287 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10633 HTTP/1.1" 200 None
+2023-01-04 11:50:35,290 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Agape Church
+2023-01-04 11:50:35,292 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:35,484 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10634 HTTP/1.1" 200 None
+2023-01-04 11:50:35,488 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Knowles Door Check
+2023-01-04 11:50:35,489 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:35,664 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10668 HTTP/1.1" 200 None
+2023-01-04 11:50:35,668 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Landmark Title
+2023-01-04 11:50:35,671 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:35,870 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10680 HTTP/1.1" 200 None
+2023-01-04 11:50:35,872 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Wichita Falls Manufacturing
+2023-01-04 11:50:35,874 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:36,055 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10652 HTTP/1.1" 200 None
+2023-01-04 11:50:36,062 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Bowles Construction
+2023-01-04 11:50:36,067 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:36,239 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10657 HTTP/1.1" 200 2505
+2023-01-04 11:50:36,240 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dean Dale SUD
+2023-01-04 11:50:36,241 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:36,465 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10682 HTTP/1.1" 200 None
+2023-01-04 11:50:36,467 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Windthorst FCU
+2023-01-04 11:50:36,468 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:36,693 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10653 HTTP/1.1" 200 None
+2023-01-04 11:50:36,695 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Breegle
+2023-01-04 11:50:36,696 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:36,859 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10663 HTTP/1.1" 200 None
+2023-01-04 11:50:36,864 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Gary Crouch
+2023-01-04 11:50:36,867 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:37,052 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10672 HTTP/1.1" 200 None
+2023-01-04 11:50:37,059 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Quatro Oil and Gas Inc.
+2023-01-04 11:50:37,064 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:37,299 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10635 HTTP/1.1" 200 None
+2023-01-04 11:50:37,301 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Canton Ford
+2023-01-04 11:50:37,302 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:37,453 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10636 HTTP/1.1" 200 None
+2023-01-04 11:50:37,457 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Barnard Insurance Agency
+2023-01-04 11:50:37,461 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:37,689 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10707 HTTP/1.1" 200 None
+2023-01-04 11:50:37,691 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Web Fire Communications
+2023-01-04 11:50:37,692 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:37,868 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10637 HTTP/1.1" 200 None
+2023-01-04 11:50:37,869 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Eddie Hill's Fun Cycles
+2023-01-04 11:50:37,871 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:38,078 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10638 HTTP/1.1" 200 None
+2023-01-04 11:50:38,082 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Bestcare Health Services
+2023-01-04 11:50:38,085 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:38,259 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10674 HTTP/1.1" 200 None
+2023-01-04 11:50:38,261 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Select Industries
+2023-01-04 11:50:38,263 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:38,429 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10639 HTTP/1.1" 200 None
+2023-01-04 11:50:38,435 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Pierce Sales
+2023-01-04 11:50:38,439 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:38,640 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10655 HTTP/1.1" 200 None
+2023-01-04 11:50:38,643 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Children's Aid Society of West Texas
+2023-01-04 11:50:38,645 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:38,798 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10640 HTTP/1.1" 200 None
+2023-01-04 11:50:38,804 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Foundation Automotive of Wichita Falls
+2023-01-04 11:50:38,808 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:39,008 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10671 HTTP/1.1" 200 None
+2023-01-04 11:50:39,011 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Olney Fuel & Supply
+2023-01-04 11:50:39,014 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:39,170 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10673 HTTP/1.1" 200 None
+2023-01-04 11:50:39,171 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Rolling Plains Management
+2023-01-04 11:50:39,173 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:39,365 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10641 HTTP/1.1" 200 None
+2023-01-04 11:50:39,371 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Wichita Medical Management, LLC - Affordacare
+2023-01-04 11:50:39,373 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:39,531 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10669 HTTP/1.1" 200 None
+2023-01-04 11:50:39,534 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Larry's Marine
+2023-01-04 11:50:39,536 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:39,763 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10661 HTTP/1.1" 200 None
+2023-01-04 11:50:39,765 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dr. Ganeshram
+2023-01-04 11:50:39,767 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:39,921 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10642 HTTP/1.1" 200 None
+2023-01-04 11:50:39,922 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dr. Andre Desire
+2023-01-04 11:50:39,923 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:40,081 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10643 HTTP/1.1" 200 None
+2023-01-04 11:50:40,083 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Workforce Solutions
+2023-01-04 11:50:40,085 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:40,350 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10644 HTTP/1.1" 200 None
+2023-01-04 11:50:40,355 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for EPFF
+2023-01-04 11:50:40,358 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:40,514 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10645 HTTP/1.1" 200 None
+2023-01-04 11:50:40,520 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Metroplex Welding and Supply
+2023-01-04 11:50:40,523 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:40,669 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10646 HTTP/1.1" 200 None
+2023-01-04 11:50:40,672 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for NTRA
+2023-01-04 11:50:40,674 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:40,851 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10647 HTTP/1.1" 200 None
+2023-01-04 11:50:40,852 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Wichita Falls Ford
+2023-01-04 11:50:40,854 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:40,992 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10648 HTTP/1.1" 200 None
+2023-01-04 11:50:40,999 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Pain Rehab
+2023-01-04 11:50:41,003 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:41,207 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10676 HTTP/1.1" 200 None
+2023-01-04 11:50:41,212 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Team Pride
+2023-01-04 11:50:41,215 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:41,377 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10683 HTTP/1.1" 200 None
+2023-01-04 11:50:41,381 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for YMCA --- Wichita Falls
+2023-01-04 11:50:41,382 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:41,562 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10709 HTTP/1.1" 200 None
+2023-01-04 11:50:41,567 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Woodco Building Products
+2023-01-04 11:50:41,570 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:41,789 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10706 HTTP/1.1" 200 None
+2023-01-04 11:50:41,796 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for USA Rock Bit, Inc.
+2023-01-04 11:50:41,800 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:42,008 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10684 HTTP/1.1" 200 None
+2023-01-04 11:50:42,015 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Tex-Oma Builder's Supply
+2023-01-04 11:50:42,020 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:42,199 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10705 HTTP/1.1" 200 None
+2023-01-04 11:50:42,206 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Texhoma Christian Care Center (TCCC)
+2023-01-04 11:50:42,212 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-04 11:50:42,413 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10679 HTTP/1.1" 200 None
+2023-01-04 11:50:42,416 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for White Realty
+2023-01-06 08:34:44,820 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:45,116 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-01-06 08:34:45,124 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:46,134 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-01-06 08:34:46,235 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:47,212 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-01-06 08:34:47,311 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:48,017 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-01-06 08:34:48,080 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:48,866 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-01-06 08:34:48,953 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:49,698 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-01-06 08:34:49,765 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:50,472 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-01-06 08:34:50,560 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:51,627 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-01-06 08:34:51,713 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:52,640 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-01-06 08:34:52,724 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:53,496 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-01-06 08:34:53,588 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:54,262 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-01-06 08:34:54,324 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:34:55,094 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-01-06 08:34:55,387 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:34:55,665 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems HTTP/1.1" 301 None
+2023-01-06 08:34:56,214 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems/ HTTP/1.1" 200 None
+2023-01-06 08:34:56,344 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:34:56,590 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=81495 HTTP/1.1" 301 None
+2023-01-06 08:34:57,352 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=81495 HTTP/1.1" 200 932
+2023-01-06 08:34:57,355 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:34:57,598 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=76842,75913,75912,75911,75910,75909,75908,75907,75674,69878 HTTP/1.1" 301 None
+2023-01-06 08:34:58,950 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=76842,75913,75912,75911,75910,75909,75908,75907,75674,69878 HTTP/1.1" 200 None
+2023-01-06 08:34:58,952 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:34:59,199 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69872,69871,69870,69869,69868,69867,69866,69865,69864,69863 HTTP/1.1" 301 None
+2023-01-06 08:35:00,595 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69872,69871,69870,69869,69868,69867,69866,69865,69864,69863 HTTP/1.1" 200 None
+2023-01-06 08:35:00,606 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:00,845 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69862,69861,69860,69859,69858,69857,69647 HTTP/1.1" 301 None
+2023-01-06 08:35:01,896 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69862,69861,69860,69859,69858,69857,69647 HTTP/1.1" 200 None
+2023-01-06 08:35:01,901 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:02,158 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=81493 HTTP/1.1" 301 None
+2023-01-06 08:35:02,500 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=81493 HTTP/1.1" 200 None
+2023-01-06 08:35:02,502 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:02,731 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=79847,76889,76883,76840,75877,75876,75875,75874,75873,75872 HTTP/1.1" 301 None
+2023-01-06 08:35:03,824 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=79847,76889,76883,76840,75877,75876,75875,75874,75873,75872 HTTP/1.1" 200 None
+2023-01-06 08:35:03,827 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:04,092 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75871,75870,75869,75868,75519,75204,70246,69841,69838,69837 HTTP/1.1" 301 None
+2023-01-06 08:35:05,350 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75871,75870,75869,75868,75519,75204,70246,69841,69838,69837 HTTP/1.1" 200 None
+2023-01-06 08:35:05,352 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:05,600 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 301 None
+2023-01-06 08:35:07,080 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 200 None
+2023-01-06 08:35:07,120 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:07,369 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 301 None
+2023-01-06 08:35:08,832 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 200 None
+2023-01-06 08:35:08,872 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:09,124 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 301 None
+2023-01-06 08:35:10,063 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 200 None
+2023-01-06 08:35:10,111 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:10,355 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=81494 HTTP/1.1" 301 None
+2023-01-06 08:35:10,621 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=81494 HTTP/1.1" 200 999
+2023-01-06 08:35:10,623 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:10,864 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=76875,76874,76860,76841,76744,76743,76742,76741,76740,76739 HTTP/1.1" 301 None
+2023-01-06 08:35:11,767 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=76875,76874,76860,76841,76744,76743,76742,76741,76740,76739 HTTP/1.1" 200 None
+2023-01-06 08:35:11,775 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:12,019 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=75914,75906,75669,75657,75656,75655,69856,69855,69854,69853 HTTP/1.1" 301 None
+2023-01-06 08:35:13,358 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=75914,75906,75669,75657,75656,75655,69856,69855,69854,69853 HTTP/1.1" 200 None
+2023-01-06 08:35:13,361 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:13,594 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69852,69851,69850,69849,69848,69847,69846,69845,69844,69843 HTTP/1.1" 301 None
+2023-01-06 08:35:14,767 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69852,69851,69850,69849,69848,69847,69846,69845,69844,69843 HTTP/1.1" 200 None
+2023-01-06 08:35:14,770 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 08:35:15,002 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69809 HTTP/1.1" 301 None
+2023-01-06 08:35:15,506 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69809 HTTP/1.1" 200 988
+2023-01-06 08:35:15,511 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:15,590 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-01-06 08:35:15,593 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:16,342 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-01-06 08:35:16,460 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:17,223 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-01-06 08:35:17,342 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:18,055 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-01-06 08:35:18,201 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:19,022 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-01-06 08:35:19,175 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:19,883 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-01-06 08:35:20,144 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:20,900 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-01-06 08:35:21,035 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:21,891 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-01-06 08:35:22,150 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:22,799 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-01-06 08:35:22,893 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:23,583 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-01-06 08:35:23,712 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:24,401 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-01-06 08:35:24,676 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:25,184 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-01-06 08:35:25,238 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:25,668 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10650 HTTP/1.1" 200 None
+2023-01-06 08:35:25,673 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Gary Baker and Associates
+2023-01-06 08:35:25,673 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Single Client Environment  --- Check Inspector Name'
+2023-01-06 08:35:25,674 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:25,912 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10631 HTTP/1.1" 200 None
+2023-01-06 08:35:25,913 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Gant, McGee & Baber
+2023-01-06 08:35:25,913 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> '2206'
+2023-01-06 08:35:25,914 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:26,138 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10662 HTTP/1.1" 200 None
+2023-01-06 08:35:26,140 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Foundations of Texoma
+2023-01-06 08:35:26,141 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:26,376 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10659 HTTP/1.1" 200 None
+2023-01-06 08:35:26,382 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dr. Caras
+2023-01-06 08:35:26,387 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:26,626 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10633 HTTP/1.1" 200 None
+2023-01-06 08:35:26,630 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Agape Church
+2023-01-06 08:35:26,632 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:26,846 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10634 HTTP/1.1" 200 None
+2023-01-06 08:35:26,849 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Knowles Door Check
+2023-01-06 08:35:26,851 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:27,021 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10668 HTTP/1.1" 200 None
+2023-01-06 08:35:27,028 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Landmark Title
+2023-01-06 08:35:27,032 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:27,265 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10680 HTTP/1.1" 200 None
+2023-01-06 08:35:27,270 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Wichita Falls Manufacturing
+2023-01-06 08:35:27,274 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:27,479 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10652 HTTP/1.1" 200 None
+2023-01-06 08:35:27,483 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Bowles Construction
+2023-01-06 08:35:27,485 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:27,720 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10657 HTTP/1.1" 200 None
+2023-01-06 08:35:27,722 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dean Dale SUD
+2023-01-06 08:35:27,723 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:27,903 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10682 HTTP/1.1" 200 None
+2023-01-06 08:35:27,905 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Windthorst FCU
+2023-01-06 08:35:27,906 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:28,145 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10653 HTTP/1.1" 200 None
+2023-01-06 08:35:28,151 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Breegle
+2023-01-06 08:35:28,156 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:28,369 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10663 HTTP/1.1" 200 None
+2023-01-06 08:35:28,373 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Gary Crouch
+2023-01-06 08:35:28,375 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:28,603 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10672 HTTP/1.1" 200 None
+2023-01-06 08:35:28,609 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Quatro Oil and Gas Inc.
+2023-01-06 08:35:28,615 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:28,792 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10635 HTTP/1.1" 200 None
+2023-01-06 08:35:28,794 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Canton Ford
+2023-01-06 08:35:28,796 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:29,070 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10636 HTTP/1.1" 200 None
+2023-01-06 08:35:29,072 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Barnard Insurance Agency
+2023-01-06 08:35:29,073 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:29,232 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10707 HTTP/1.1" 200 None
+2023-01-06 08:35:29,234 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Web Fire Communications
+2023-01-06 08:35:29,236 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:29,494 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10637 HTTP/1.1" 200 None
+2023-01-06 08:35:29,497 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Eddie Hill's Fun Cycles
+2023-01-06 08:35:29,499 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:29,787 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10638 HTTP/1.1" 200 None
+2023-01-06 08:35:29,788 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Bestcare Health Services
+2023-01-06 08:35:29,789 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:29,997 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10674 HTTP/1.1" 200 None
+2023-01-06 08:35:29,999 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Select Industries
+2023-01-06 08:35:30,001 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:30,247 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10639 HTTP/1.1" 200 None
+2023-01-06 08:35:30,249 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Pierce Sales
+2023-01-06 08:35:30,250 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:30,392 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10655 HTTP/1.1" 200 None
+2023-01-06 08:35:30,394 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Children's Aid Society of West Texas
+2023-01-06 08:35:30,395 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:30,595 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10640 HTTP/1.1" 200 None
+2023-01-06 08:35:30,596 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Foundation Automotive of Wichita Falls
+2023-01-06 08:35:30,597 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:30,809 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10671 HTTP/1.1" 200 None
+2023-01-06 08:35:30,810 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Olney Fuel & Supply
+2023-01-06 08:35:30,811 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:30,974 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10673 HTTP/1.1" 200 None
+2023-01-06 08:35:30,976 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Rolling Plains Management
+2023-01-06 08:35:30,977 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:31,126 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10641 HTTP/1.1" 200 None
+2023-01-06 08:35:31,128 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Wichita Medical Management, LLC - Affordacare
+2023-01-06 08:35:31,129 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:31,262 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10669 HTTP/1.1" 200 None
+2023-01-06 08:35:31,263 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Larry's Marine
+2023-01-06 08:35:31,264 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:31,404 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10661 HTTP/1.1" 200 None
+2023-01-06 08:35:31,406 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dr. Ganeshram
+2023-01-06 08:35:31,407 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:31,599 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10642 HTTP/1.1" 200 None
+2023-01-06 08:35:31,600 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dr. Andre Desire
+2023-01-06 08:35:31,601 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:31,927 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10643 HTTP/1.1" 200 None
+2023-01-06 08:35:31,931 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Workforce Solutions
+2023-01-06 08:35:31,932 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:32,109 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10644 HTTP/1.1" 200 None
+2023-01-06 08:35:32,114 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for EPFF
+2023-01-06 08:35:32,115 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:32,463 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10645 HTTP/1.1" 200 None
+2023-01-06 08:35:32,465 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Metroplex Welding and Supply
+2023-01-06 08:35:32,466 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:32,620 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10646 HTTP/1.1" 200 None
+2023-01-06 08:35:32,627 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for NTRA
+2023-01-06 08:35:32,631 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:32,859 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10647 HTTP/1.1" 200 None
+2023-01-06 08:35:32,861 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Wichita Falls Ford
+2023-01-06 08:35:32,863 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:33,035 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10648 HTTP/1.1" 200 None
+2023-01-06 08:35:33,037 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Pain Rehab
+2023-01-06 08:35:33,038 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:33,202 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10676 HTTP/1.1" 200 None
+2023-01-06 08:35:33,204 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Team Pride
+2023-01-06 08:35:33,205 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:33,370 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10683 HTTP/1.1" 200 None
+2023-01-06 08:35:33,374 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for YMCA --- Wichita Falls
+2023-01-06 08:35:33,375 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:33,555 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10709 HTTP/1.1" 200 None
+2023-01-06 08:35:33,560 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Woodco Building Products
+2023-01-06 08:35:33,561 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:33,772 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10706 HTTP/1.1" 200 None
+2023-01-06 08:35:33,777 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for USA Rock Bit, Inc.
+2023-01-06 08:35:33,780 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:33,977 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10684 HTTP/1.1" 200 None
+2023-01-06 08:35:33,982 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Tex-Oma Builder's Supply
+2023-01-06 08:35:33,983 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:34,193 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10705 HTTP/1.1" 200 None
+2023-01-06 08:35:34,199 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Texhoma Christian Care Center (TCCC)
+2023-01-06 08:35:34,203 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 08:35:34,417 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10679 HTTP/1.1" 200 None
+2023-01-06 08:35:34,423 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for White Realty
+2023-01-06 10:28:06,262 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:06,641 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-01-06 10:28:06,646 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:07,765 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-01-06 10:28:07,852 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:08,640 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-01-06 10:28:08,722 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:09,676 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-01-06 10:28:09,774 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:10,612 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-01-06 10:28:10,689 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:11,340 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-01-06 10:28:11,464 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:12,170 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-01-06 10:28:12,260 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:13,278 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-01-06 10:28:13,358 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:14,005 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-01-06 10:28:14,068 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:15,149 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-01-06 10:28:15,248 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:15,948 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-01-06 10:28:16,035 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:16,618 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-01-06 10:28:16,928 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:17,181 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems HTTP/1.1" 301 None
+2023-01-06 10:28:17,640 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems/ HTTP/1.1" 200 None
+2023-01-06 10:28:17,768 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:18,004 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=81495 HTTP/1.1" 301 None
+2023-01-06 10:28:18,723 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=81495 HTTP/1.1" 200 932
+2023-01-06 10:28:18,729 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:18,981 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=76842,75913,75912,75911,75910,75909,75908,75907,75674,69878 HTTP/1.1" 301 None
+2023-01-06 10:28:20,063 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=76842,75913,75912,75911,75910,75909,75908,75907,75674,69878 HTTP/1.1" 200 None
+2023-01-06 10:28:20,115 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:20,370 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69872,69871,69870,69869,69868,69867,69866,69865,69864,69863 HTTP/1.1" 301 None
+2023-01-06 10:28:21,652 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69872,69871,69870,69869,69868,69867,69866,69865,69864,69863 HTTP/1.1" 200 None
+2023-01-06 10:28:21,657 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:21,891 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69862,69861,69860,69859,69858,69857,69647 HTTP/1.1" 301 None
+2023-01-06 10:28:22,959 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69862,69861,69860,69859,69858,69857,69647 HTTP/1.1" 200 None
+2023-01-06 10:28:22,995 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:23,236 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=81493 HTTP/1.1" 301 None
+2023-01-06 10:28:23,530 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=81493 HTTP/1.1" 200 None
+2023-01-06 10:28:23,538 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:23,792 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=79847,76889,76883,76840,75877,75876,75875,75874,75873,75872 HTTP/1.1" 301 None
+2023-01-06 10:28:24,789 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=79847,76889,76883,76840,75877,75876,75875,75874,75873,75872 HTTP/1.1" 200 None
+2023-01-06 10:28:24,793 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:25,033 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75871,75870,75869,75868,75519,75204,70246,69841,69838,69837 HTTP/1.1" 301 None
+2023-01-06 10:28:26,170 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75871,75870,75869,75868,75519,75204,70246,69841,69838,69837 HTTP/1.1" 200 None
+2023-01-06 10:28:26,181 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:26,444 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 301 None
+2023-01-06 10:28:27,620 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 200 None
+2023-01-06 10:28:27,623 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:27,879 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 301 None
+2023-01-06 10:28:29,146 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 200 None
+2023-01-06 10:28:29,148 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:29,394 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 301 None
+2023-01-06 10:28:30,200 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 200 None
+2023-01-06 10:28:30,203 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:30,448 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=81494 HTTP/1.1" 301 None
+2023-01-06 10:28:30,754 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=81494 HTTP/1.1" 200 999
+2023-01-06 10:28:30,756 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:30,990 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=76875,76874,76860,76841,76744,76743,76742,76741,76740,76739 HTTP/1.1" 301 None
+2023-01-06 10:28:31,833 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=76875,76874,76860,76841,76744,76743,76742,76741,76740,76739 HTTP/1.1" 200 None
+2023-01-06 10:28:31,835 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:32,085 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=75914,75906,75669,75657,75656,75655,69856,69855,69854,69853 HTTP/1.1" 301 None
+2023-01-06 10:28:33,151 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=75914,75906,75669,75657,75656,75655,69856,69855,69854,69853 HTTP/1.1" 200 None
+2023-01-06 10:28:33,153 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:33,387 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69852,69851,69850,69849,69848,69847,69846,69845,69844,69843 HTTP/1.1" 301 None
+2023-01-06 10:28:34,515 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69852,69851,69850,69849,69848,69847,69846,69845,69844,69843 HTTP/1.1" 200 None
+2023-01-06 10:28:34,518 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-06 10:28:34,759 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69809 HTTP/1.1" 301 None
+2023-01-06 10:28:35,162 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69809 HTTP/1.1" 200 988
+2023-01-06 10:28:35,167 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:35,259 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-01-06 10:28:35,261 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:36,304 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-01-06 10:28:36,509 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:37,159 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-01-06 10:28:37,314 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:38,018 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-01-06 10:28:38,168 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:38,856 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-01-06 10:28:38,935 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:39,776 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-01-06 10:28:39,905 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:40,637 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-01-06 10:28:40,705 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:41,406 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-01-06 10:28:41,475 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:42,224 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-01-06 10:28:42,376 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:43,147 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-01-06 10:28:43,352 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:44,038 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-01-06 10:28:44,144 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:44,797 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-01-06 10:28:44,868 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:45,189 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10650 HTTP/1.1" 200 None
+2023-01-06 10:28:45,191 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Gary Baker and Associates
+2023-01-06 10:28:45,191 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Single Client Environment  --- Check Inspector Name'
+2023-01-06 10:28:45,192 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:45,391 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10631 HTTP/1.1" 200 None
+2023-01-06 10:28:45,393 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Gant, McGee & Baber
+2023-01-06 10:28:45,393 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> '2206'
+2023-01-06 10:28:45,394 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:45,622 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10662 HTTP/1.1" 200 None
+2023-01-06 10:28:45,624 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Foundations of Texoma
+2023-01-06 10:28:45,625 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:45,896 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10659 HTTP/1.1" 200 None
+2023-01-06 10:28:45,897 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dr. Caras
+2023-01-06 10:28:45,898 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:46,063 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10633 HTTP/1.1" 200 None
+2023-01-06 10:28:46,064 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Agape Church
+2023-01-06 10:28:46,065 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:46,266 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10634 HTTP/1.1" 200 None
+2023-01-06 10:28:46,268 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Knowles Door Check
+2023-01-06 10:28:46,269 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:46,457 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10668 HTTP/1.1" 200 None
+2023-01-06 10:28:46,458 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Landmark Title
+2023-01-06 10:28:46,459 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:46,698 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10680 HTTP/1.1" 200 None
+2023-01-06 10:28:46,699 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Wichita Falls Manufacturing
+2023-01-06 10:28:46,700 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:46,865 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10652 HTTP/1.1" 200 None
+2023-01-06 10:28:46,867 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Bowles Construction
+2023-01-06 10:28:46,868 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:47,071 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10657 HTTP/1.1" 200 None
+2023-01-06 10:28:47,074 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dean Dale SUD
+2023-01-06 10:28:47,075 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:47,260 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10682 HTTP/1.1" 200 None
+2023-01-06 10:28:47,262 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Windthorst FCU
+2023-01-06 10:28:47,263 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:47,449 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10653 HTTP/1.1" 200 None
+2023-01-06 10:28:47,451 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Breegle
+2023-01-06 10:28:47,452 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:47,659 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10663 HTTP/1.1" 200 None
+2023-01-06 10:28:47,660 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Gary Crouch
+2023-01-06 10:28:47,661 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:47,845 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10672 HTTP/1.1" 200 None
+2023-01-06 10:28:47,846 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Quatro Oil and Gas Inc.
+2023-01-06 10:28:47,847 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:48,044 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10635 HTTP/1.1" 200 None
+2023-01-06 10:28:48,046 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Canton Ford
+2023-01-06 10:28:48,047 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:48,198 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10636 HTTP/1.1" 200 None
+2023-01-06 10:28:48,199 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Barnard Insurance Agency
+2023-01-06 10:28:48,200 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:48,389 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10707 HTTP/1.1" 200 None
+2023-01-06 10:28:48,390 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Web Fire Communications
+2023-01-06 10:28:48,391 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:48,620 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10637 HTTP/1.1" 200 None
+2023-01-06 10:28:48,621 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Eddie Hill's Fun Cycles
+2023-01-06 10:28:48,622 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:48,800 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10638 HTTP/1.1" 200 None
+2023-01-06 10:28:48,802 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Bestcare Health Services
+2023-01-06 10:28:48,803 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:48,998 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10674 HTTP/1.1" 200 None
+2023-01-06 10:28:48,999 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Select Industries
+2023-01-06 10:28:49,000 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:49,193 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10639 HTTP/1.1" 200 None
+2023-01-06 10:28:49,195 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Pierce Sales
+2023-01-06 10:28:49,197 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:49,415 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10655 HTTP/1.1" 200 None
+2023-01-06 10:28:49,418 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Children's Aid Society of West Texas
+2023-01-06 10:28:49,420 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:49,593 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10640 HTTP/1.1" 200 None
+2023-01-06 10:28:49,594 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Foundation Automotive of Wichita Falls
+2023-01-06 10:28:49,595 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:50,375 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10671 HTTP/1.1" 200 None
+2023-01-06 10:28:50,376 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Olney Fuel & Supply
+2023-01-06 10:28:50,378 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:50,563 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10673 HTTP/1.1" 200 None
+2023-01-06 10:28:50,565 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Rolling Plains Management
+2023-01-06 10:28:50,566 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:50,724 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10641 HTTP/1.1" 200 None
+2023-01-06 10:28:50,725 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Wichita Medical Management, LLC - Affordacare
+2023-01-06 10:28:50,726 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:51,079 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10669 HTTP/1.1" 200 None
+2023-01-06 10:28:51,081 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Larry's Marine
+2023-01-06 10:28:51,082 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:51,244 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10661 HTTP/1.1" 200 None
+2023-01-06 10:28:51,245 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dr. Ganeshram
+2023-01-06 10:28:51,247 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:51,529 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10642 HTTP/1.1" 200 None
+2023-01-06 10:28:51,531 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Dr. Andre Desire
+2023-01-06 10:28:51,532 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:51,671 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10643 HTTP/1.1" 200 None
+2023-01-06 10:28:51,672 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Workforce Solutions
+2023-01-06 10:28:51,674 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:51,885 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10644 HTTP/1.1" 200 None
+2023-01-06 10:28:51,886 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for EPFF
+2023-01-06 10:28:51,887 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:52,087 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10645 HTTP/1.1" 200 None
+2023-01-06 10:28:52,089 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Metroplex Welding and Supply
+2023-01-06 10:28:52,090 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:52,288 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10646 HTTP/1.1" 200 None
+2023-01-06 10:28:52,289 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for NTRA
+2023-01-06 10:28:52,290 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:52,623 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10647 HTTP/1.1" 200 None
+2023-01-06 10:28:52,625 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Wichita Falls Ford
+2023-01-06 10:28:52,626 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:52,782 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10648 HTTP/1.1" 200 None
+2023-01-06 10:28:52,784 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Pain Rehab
+2023-01-06 10:28:52,785 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:52,932 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10676 HTTP/1.1" 200 None
+2023-01-06 10:28:52,934 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Team Pride
+2023-01-06 10:28:52,935 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:53,199 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10683 HTTP/1.1" 200 None
+2023-01-06 10:28:53,200 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for YMCA --- Wichita Falls
+2023-01-06 10:28:53,201 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:53,606 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10709 HTTP/1.1" 200 None
+2023-01-06 10:28:53,607 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Woodco Building Products
+2023-01-06 10:28:53,608 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:53,795 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10706 HTTP/1.1" 200 None
+2023-01-06 10:28:53,797 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for USA Rock Bit, Inc.
+2023-01-06 10:28:53,799 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:53,986 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10684 HTTP/1.1" 200 None
+2023-01-06 10:28:53,987 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Tex-Oma Builder's Supply
+2023-01-06 10:28:53,988 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:54,452 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10705 HTTP/1.1" 200 None
+2023-01-06 10:28:54,454 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for Texhoma Christian Care Center (TCCC)
+2023-01-06 10:28:54,455 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-06 10:28:54,698 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10679 HTTP/1.1" 200 None
+2023-01-06 10:28:54,700 utilities.cw_msp_reports INFO:Successfully patched 'MSP Report' for White Realty
+2023-01-09 11:45:09,941 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:10,291 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-01-09 11:45:10,293 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:11,382 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-01-09 11:45:11,471 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:12,274 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-01-09 11:45:12,362 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:13,064 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-01-09 11:45:13,126 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:14,040 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-01-09 11:45:14,135 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:14,834 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-01-09 11:45:14,915 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:15,924 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-01-09 11:45:16,032 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:16,918 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-01-09 11:45:17,002 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:17,659 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-01-09 11:45:17,726 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:18,767 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-01-09 11:45:18,918 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:19,570 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-01-09 11:45:19,639 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:20,182 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-01-09 11:45:20,494 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:20,860 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems HTTP/1.1" 301 None
+2023-01-09 11:45:21,436 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems/ HTTP/1.1" 200 None
+2023-01-09 11:45:21,590 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:21,904 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=81495 HTTP/1.1" 301 None
+2023-01-09 11:45:22,662 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=81495 HTTP/1.1" 200 932
+2023-01-09 11:45:22,665 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:22,951 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=76842,75913,75912,75911,75910,75909,75908,75907,75674,69878 HTTP/1.1" 301 None
+2023-01-09 11:45:23,959 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=76842,75913,75912,75911,75910,75909,75908,75907,75674,69878 HTTP/1.1" 200 None
+2023-01-09 11:45:23,964 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:24,282 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69872,69871,69870,69869,69868,69867,69866,69865,69864,69863 HTTP/1.1" 301 None
+2023-01-09 11:45:25,487 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69872,69871,69870,69869,69868,69867,69866,69865,69864,69863 HTTP/1.1" 200 None
+2023-01-09 11:45:25,499 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:25,804 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69862,69861,69860,69859,69858,69857,69647 HTTP/1.1" 301 None
+2023-01-09 11:45:26,615 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69862,69861,69860,69859,69858,69857,69647 HTTP/1.1" 200 None
+2023-01-09 11:45:26,618 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:26,927 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=81493 HTTP/1.1" 301 None
+2023-01-09 11:45:27,280 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=81493 HTTP/1.1" 200 None
+2023-01-09 11:45:27,284 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:27,591 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=79847,76889,76883,76840,75877,75876,75875,75874,75873,75872 HTTP/1.1" 301 None
+2023-01-09 11:45:28,682 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=79847,76889,76883,76840,75877,75876,75875,75874,75873,75872 HTTP/1.1" 200 None
+2023-01-09 11:45:28,685 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:28,959 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75871,75870,75869,75868,75519,75204,70246,69841,69838,69837 HTTP/1.1" 301 None
+2023-01-09 11:45:29,996 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75871,75870,75869,75868,75519,75204,70246,69841,69838,69837 HTTP/1.1" 200 None
+2023-01-09 11:45:30,002 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:30,277 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 301 None
+2023-01-09 11:45:31,514 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 200 None
+2023-01-09 11:45:31,517 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:31,827 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 301 None
+2023-01-09 11:45:32,918 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 200 None
+2023-01-09 11:45:32,929 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:33,200 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 301 None
+2023-01-09 11:45:33,956 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 200 None
+2023-01-09 11:45:33,959 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:34,262 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=81494 HTTP/1.1" 301 None
+2023-01-09 11:45:34,619 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=81494 HTTP/1.1" 200 999
+2023-01-09 11:45:34,630 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:34,909 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=76875,76874,76860,76841,76744,76743,76742,76741,76740,76739 HTTP/1.1" 301 None
+2023-01-09 11:45:35,689 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=76875,76874,76860,76841,76744,76743,76742,76741,76740,76739 HTTP/1.1" 200 None
+2023-01-09 11:45:35,694 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:35,996 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=75914,75906,75669,75657,75656,75655,69856,69855,69854,69853 HTTP/1.1" 301 None
+2023-01-09 11:45:37,039 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=75914,75906,75669,75657,75656,75655,69856,69855,69854,69853 HTTP/1.1" 200 None
+2023-01-09 11:45:37,042 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:37,347 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69852,69851,69850,69849,69848,69847,69846,69845,69844,69843 HTTP/1.1" 301 None
+2023-01-09 11:45:38,421 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69852,69851,69850,69849,69848,69847,69846,69845,69844,69843 HTTP/1.1" 200 None
+2023-01-09 11:45:38,433 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-01-09 11:45:38,768 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69809 HTTP/1.1" 301 None
+2023-01-09 11:45:39,130 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69809 HTTP/1.1" 200 988
+2023-01-09 11:45:39,135 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:39,233 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-01-09 11:45:39,243 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:39,926 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-01-09 11:45:40,152 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:40,825 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-01-09 11:45:41,066 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:41,783 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-01-09 11:45:42,031 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:42,831 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-01-09 11:45:42,908 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:43,584 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-01-09 11:45:43,768 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:44,630 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-01-09 11:45:44,724 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:45,371 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-01-09 11:45:45,540 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:46,217 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-01-09 11:45:46,425 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:47,085 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-01-09 11:45:47,306 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:47,997 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-01-09 11:45:48,078 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:48,552 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-01-09 11:45:48,707 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:49,284 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10650 HTTP/1.1" 200 None
+2023-01-09 11:45:49,286 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Gary Baker and Associates
+2023-01-09 11:45:49,286 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Single Client Environment  --- Check Inspector Name'
+2023-01-09 11:45:49,287 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:49,523 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10631 HTTP/1.1" 200 None
+2023-01-09 11:45:49,530 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Gant, McGee & Baber
+2023-01-09 11:45:49,536 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:49,886 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10632 HTTP/1.1" 200 None
+2023-01-09 11:45:49,888 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for S-5! Manufacturing
+2023-01-09 11:45:49,889 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:50,146 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10662 HTTP/1.1" 200 None
+2023-01-09 11:45:50,154 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Foundations of Texoma
+2023-01-09 11:45:50,158 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:50,334 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10659 HTTP/1.1" 200 None
+2023-01-09 11:45:50,338 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Dr. Caras
+2023-01-09 11:45:50,340 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:50,576 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10633 HTTP/1.1" 200 None
+2023-01-09 11:45:50,578 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Agape Church
+2023-01-09 11:45:50,579 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:50,866 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10634 HTTP/1.1" 200 None
+2023-01-09 11:45:50,868 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Knowles Door Check
+2023-01-09 11:45:50,869 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:51,113 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10668 HTTP/1.1" 200 None
+2023-01-09 11:45:51,120 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Landmark Title
+2023-01-09 11:45:51,125 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:51,367 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10680 HTTP/1.1" 200 None
+2023-01-09 11:45:51,369 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Wichita Falls Manufacturing
+2023-01-09 11:45:51,370 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:51,620 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10652 HTTP/1.1" 200 None
+2023-01-09 11:45:51,627 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Bowles Construction
+2023-01-09 11:45:51,631 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:51,871 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10657 HTTP/1.1" 200 None
+2023-01-09 11:45:51,873 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Dean Dale SUD
+2023-01-09 11:45:51,874 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:52,078 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10682 HTTP/1.1" 200 None
+2023-01-09 11:45:52,080 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Windthorst FCU
+2023-01-09 11:45:52,082 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:52,298 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10653 HTTP/1.1" 200 None
+2023-01-09 11:45:52,300 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Breegle
+2023-01-09 11:45:52,301 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:52,485 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10663 HTTP/1.1" 200 None
+2023-01-09 11:45:52,487 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Gary Crouch
+2023-01-09 11:45:52,488 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:52,733 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10672 HTTP/1.1" 200 None
+2023-01-09 11:45:52,736 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Quatro Oil and Gas Inc.
+2023-01-09 11:45:52,738 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:53,081 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10635 HTTP/1.1" 200 2620
+2023-01-09 11:45:53,084 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Canton Ford
+2023-01-09 11:45:53,087 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:53,439 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10636 HTTP/1.1" 200 None
+2023-01-09 11:45:53,443 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Barnard Insurance Agency
+2023-01-09 11:45:53,446 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:53,630 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10707 HTTP/1.1" 200 None
+2023-01-09 11:45:53,635 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Web Fire Communications
+2023-01-09 11:45:53,638 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:53,879 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10637 HTTP/1.1" 200 None
+2023-01-09 11:45:53,885 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Eddie Hill's Fun Cycles
+2023-01-09 11:45:53,890 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:54,092 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10638 HTTP/1.1" 200 None
+2023-01-09 11:45:54,096 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Bestcare Health Services
+2023-01-09 11:45:54,099 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:54,273 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10674 HTTP/1.1" 200 None
+2023-01-09 11:45:54,279 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Select Industries
+2023-01-09 11:45:54,284 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:54,667 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10639 HTTP/1.1" 200 None
+2023-01-09 11:45:54,674 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Pierce Sales
+2023-01-09 11:45:54,679 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:54,879 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10655 HTTP/1.1" 200 None
+2023-01-09 11:45:54,881 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Children's Aid Society of West Texas
+2023-01-09 11:45:54,882 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:55,163 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10640 HTTP/1.1" 200 None
+2023-01-09 11:45:55,167 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Foundation Automotive of Wichita Falls
+2023-01-09 11:45:55,169 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:55,437 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10671 HTTP/1.1" 200 None
+2023-01-09 11:45:55,438 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Olney Fuel & Supply
+2023-01-09 11:45:55,440 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:55,592 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10673 HTTP/1.1" 200 None
+2023-01-09 11:45:55,599 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Rolling Plains Management
+2023-01-09 11:45:55,603 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:55,850 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10641 HTTP/1.1" 200 None
+2023-01-09 11:45:55,852 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Wichita Medical Management, LLC - Affordacare
+2023-01-09 11:45:55,854 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:56,047 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10669 HTTP/1.1" 200 None
+2023-01-09 11:45:56,050 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Larry's Marine
+2023-01-09 11:45:56,052 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:56,284 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10661 HTTP/1.1" 200 None
+2023-01-09 11:45:56,287 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Dr. Ganeshram
+2023-01-09 11:45:56,289 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:56,472 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10642 HTTP/1.1" 200 None
+2023-01-09 11:45:56,475 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Dr. Andre Desire
+2023-01-09 11:45:56,476 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:56,945 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10643 HTTP/1.1" 200 None
+2023-01-09 11:45:56,947 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Workforce Solutions
+2023-01-09 11:45:56,948 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:57,239 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10644 HTTP/1.1" 200 None
+2023-01-09 11:45:57,241 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for EPFF
+2023-01-09 11:45:57,242 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:57,494 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10645 HTTP/1.1" 200 None
+2023-01-09 11:45:57,495 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Metroplex Welding and Supply
+2023-01-09 11:45:57,496 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:57,755 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10646 HTTP/1.1" 200 None
+2023-01-09 11:45:57,757 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for NTRA
+2023-01-09 11:45:57,758 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:57,935 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10647 HTTP/1.1" 200 None
+2023-01-09 11:45:57,942 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Wichita Falls Ford
+2023-01-09 11:45:57,946 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:58,131 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10648 HTTP/1.1" 200 None
+2023-01-09 11:45:58,133 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Pain Rehab
+2023-01-09 11:45:58,134 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:58,300 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10676 HTTP/1.1" 200 None
+2023-01-09 11:45:58,303 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Team Pride
+2023-01-09 11:45:58,305 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:58,558 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10683 HTTP/1.1" 200 None
+2023-01-09 11:45:58,561 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for YMCA --- Wichita Falls
+2023-01-09 11:45:58,563 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:58,917 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10709 HTTP/1.1" 200 None
+2023-01-09 11:45:58,924 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Woodco Building Products
+2023-01-09 11:45:58,929 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:59,180 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10706 HTTP/1.1" 200 None
+2023-01-09 11:45:59,186 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for USA Rock Bit, Inc.
+2023-01-09 11:45:59,191 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:59,384 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10684 HTTP/1.1" 200 None
+2023-01-09 11:45:59,391 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Tex-Oma Builder's Supply
+2023-01-09 11:45:59,395 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:59,636 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10705 HTTP/1.1" 200 None
+2023-01-09 11:45:59,642 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Texhoma Christian Care Center (TCCC)
+2023-01-09 11:45:59,646 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-01-09 11:45:59,811 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10679 HTTP/1.1" 200 None
+2023-01-09 11:45:59,815 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for White Realty
+2023-02-09 08:46:40,734 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:41,004 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-02-09 08:46:41,013 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:41,854 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-02-09 08:46:41,939 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:42,805 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-02-09 08:46:42,894 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:43,756 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-02-09 08:46:43,821 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:44,556 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-02-09 08:46:44,613 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:45,396 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-02-09 08:46:45,474 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:46,483 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-02-09 08:46:46,566 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:47,258 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-02-09 08:46:47,329 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:48,132 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-02-09 08:46:48,199 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:49,053 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-02-09 08:46:49,137 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:49,977 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-02-09 08:46:50,065 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:50,513 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-02-09 08:46:50,820 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:46:51,343 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "POST /v2022_2/apis/3.0/company/configurations/ HTTP/1.1" 201 2765
+2023-02-09 08:46:51,345 utilities.cw_msp_reports INFO:posted new 'MSP Report' successfully --- Nocona Housing Authority
+2023-02-09 08:46:51,349 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:46:51,644 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems HTTP/1.1" 301 None
+2023-02-09 08:46:52,077 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems/ HTTP/1.1" 200 None
+2023-02-09 08:46:52,208 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:46:52,451 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=86509 HTTP/1.1" 301 None
+2023-02-09 08:46:52,757 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=86509 HTTP/1.1" 200 932
+2023-02-09 08:46:52,767 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:46:53,041 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=86508,86507,86506,86505,86504,85496,85491,81495,76842,75913 HTTP/1.1" 301 None
+2023-02-09 08:46:53,356 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=86508,86507,86506,86505,86504,85496,85491,81495,76842,75913 HTTP/1.1" 200 None
+2023-02-09 08:46:53,367 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:46:53,629 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=75912,75911,75910,75909,75908,75907,75674,69878,69872,69871 HTTP/1.1" 301 None
+2023-02-09 08:46:53,949 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=75912,75911,75910,75909,75908,75907,75674,69878,69872,69871 HTTP/1.1" 200 None
+2023-02-09 08:46:53,961 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:46:54,225 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69870,69869,69868,69867,69866,69865,69864,69863,69862,69861 HTTP/1.1" 301 None
+2023-02-09 08:46:54,514 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69870,69869,69868,69867,69866,69865,69864,69863,69862,69861 HTTP/1.1" 200 None
+2023-02-09 08:46:54,524 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:46:54,794 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69860,69859,69858,69857,69647 HTTP/1.1" 301 None
+2023-02-09 08:46:55,071 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69860,69859,69858,69857,69647 HTTP/1.1" 200 None
+2023-02-09 08:46:55,079 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:46:55,357 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=86489 HTTP/1.1" 301 None
+2023-02-09 08:46:55,624 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=86489 HTTP/1.1" 200 None
+2023-02-09 08:46:55,636 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:46:55,913 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=86488,86487,86486,85492,84776,81493,76889,75877,75876,75875 HTTP/1.1" 301 None
+2023-02-09 08:46:57,265 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=86488,86487,86486,85492,84776,81493,76889,75877,75876,75875 HTTP/1.1" 200 None
+2023-02-09 08:46:57,268 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:46:57,514 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75874,75873,75872,75871,75868,75519,70246,69841,69838,69837 HTTP/1.1" 301 None
+2023-02-09 08:46:59,590 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75874,75873,75872,75871,75868,75519,70246,69841,69838,69837 HTTP/1.1" 200 None
+2023-02-09 08:46:59,595 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:46:59,849 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 301 None
+2023-02-09 08:47:02,448 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 200 None
+2023-02-09 08:47:02,451 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:47:02,699 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 301 None
+2023-02-09 08:47:05,184 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 200 None
+2023-02-09 08:47:05,193 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:47:05,439 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 301 None
+2023-02-09 08:47:06,911 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 200 None
+2023-02-09 08:47:06,913 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:47:07,158 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=86498 HTTP/1.1" 301 None
+2023-02-09 08:47:07,602 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=86498 HTTP/1.1" 200 1001
+2023-02-09 08:47:07,605 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:47:07,867 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=86497,86496,86495,86494,86493,86492,86491,85495,85490,81494 HTTP/1.1" 301 None
+2023-02-09 08:47:08,325 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=86497,86496,86495,86494,86493,86492,86491,85495,85490,81494 HTTP/1.1" 200 None
+2023-02-09 08:47:08,330 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:47:08,585 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=76875,76874,76860,76841,76744,76743,76742,76741,76740,76739 HTTP/1.1" 301 None
+2023-02-09 08:47:09,374 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=76875,76874,76860,76841,76744,76743,76742,76741,76740,76739 HTTP/1.1" 200 None
+2023-02-09 08:47:09,383 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:47:09,636 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=75914,75906,75669,75657,75656,75655,69856,69855,69854,69853 HTTP/1.1" 301 None
+2023-02-09 08:47:11,864 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=75914,75906,75669,75657,75656,75655,69856,69855,69854,69853 HTTP/1.1" 200 None
+2023-02-09 08:47:11,866 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:47:12,121 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69852,69851,69850,69849,69848,69847,69846,69845,69844,69843 HTTP/1.1" 301 None
+2023-02-09 08:47:14,240 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69852,69851,69850,69849,69848,69847,69846,69845,69844,69843 HTTP/1.1" 200 None
+2023-02-09 08:47:14,251 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-09 08:47:14,527 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69809 HTTP/1.1" 301 None
+2023-02-09 08:47:15,181 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69809 HTTP/1.1" 200 988
+2023-02-09 08:47:15,199 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:15,326 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-02-09 08:47:15,332 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:16,244 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-02-09 08:47:16,449 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:17,543 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-02-09 08:47:17,668 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:18,362 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-02-09 08:47:18,447 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:19,219 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-02-09 08:47:19,314 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:20,185 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-02-09 08:47:20,332 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:21,316 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-02-09 08:47:21,760 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:22,725 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-02-09 08:47:22,917 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:23,691 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-02-09 08:47:23,889 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:24,910 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-02-09 08:47:25,011 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:25,745 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-02-09 08:47:25,834 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:26,397 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-02-09 08:47:26,463 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Single Client Environment  --- Check Inspector Name'
+2023-02-09 08:47:26,463 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'TWG Investments, LTD'
+2023-02-09 08:47:26,463 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'J-Systems'
+2023-02-09 08:47:26,464 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:26,784 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10647 HTTP/1.1" 200 None
+2023-02-09 08:47:26,786 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Wichita Falls Ford
+2023-02-09 08:47:26,786 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Texoma Rheumatology, PLLC'
+2023-02-09 08:47:26,786 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Nocona Housing Authority'
+2023-02-09 08:47:26,786 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Gary Baker & Associates, LLC'
+2023-02-09 08:47:26,786 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Gant, McGee & Baber, PC'
+2023-02-09 08:47:26,788 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:27,009 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10632 HTTP/1.1" 200 None
+2023-02-09 08:47:27,015 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for S-5! Manufacturing
+2023-02-09 08:47:27,019 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:27,247 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10662 HTTP/1.1" 200 None
+2023-02-09 08:47:27,249 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Foundations of Texoma
+2023-02-09 08:47:27,249 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Dr. John Caras'
+2023-02-09 08:47:27,251 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:27,416 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10633 HTTP/1.1" 200 None
+2023-02-09 08:47:27,420 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Agape Church
+2023-02-09 08:47:27,420 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Knowles Door Check Co. Inc.'
+2023-02-09 08:47:27,422 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:27,622 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10668 HTTP/1.1" 200 None
+2023-02-09 08:47:27,624 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Landmark Title
+2023-02-09 08:47:27,624 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Wichita Falls Manufacturing & Machine'
+2023-02-09 08:47:27,625 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:27,861 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10652 HTTP/1.1" 200 None
+2023-02-09 08:47:27,867 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Bowles Construction
+2023-02-09 08:47:27,870 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:28,059 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10657 HTTP/1.1" 200 None
+2023-02-09 08:47:28,060 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Dean Dale SUD
+2023-02-09 08:47:28,060 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Windthorst Federal Credit Union'
+2023-02-09 08:47:28,060 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Breegle Abbey Carpet & Floor'
+2023-02-09 08:47:28,060 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Gary Crouch, CPA'
+2023-02-09 08:47:28,060 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Quatro Oil & Gas, Inc.'
+2023-02-09 08:47:28,061 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:28,691 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10635 HTTP/1.1" 200 None
+2023-02-09 08:47:28,697 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Canton Ford
+2023-02-09 08:47:28,697 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Barnard Insurance Agency, LLP'
+2023-02-09 08:47:28,697 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Web Fire Communications, Inc.'
+2023-02-09 08:47:28,701 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:28,895 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10637 HTTP/1.1" 200 None
+2023-02-09 08:47:28,902 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Eddie Hill's Fun Cycles
+2023-02-09 08:47:28,902 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Bestcare Health Services, Inc'
+2023-02-09 08:47:28,902 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Select Industries, Inc.'
+2023-02-09 08:47:28,906 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:29,180 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10639 HTTP/1.1" 200 None
+2023-02-09 08:47:29,187 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Pierce Sales
+2023-02-09 08:47:29,187 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> "Children's Aid Society of West TX, Inc."
+2023-02-09 08:47:29,187 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Medders Oil Co.'
+2023-02-09 08:47:29,192 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:29,372 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10640 HTTP/1.1" 200 None
+2023-02-09 08:47:29,380 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Foundation Automotive of Wichita Falls
+2023-02-09 08:47:29,385 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:29,635 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10671 HTTP/1.1" 200 None
+2023-02-09 08:47:29,642 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Olney Fuel & Supply
+2023-02-09 08:47:29,642 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Wichita Medical Mgmt, LLC - Affordacare'
+2023-02-09 08:47:29,642 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> "Larry's Marine Center"
+2023-02-09 08:47:29,642 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Rolling Plains Management Corp. Crowell'
+2023-02-09 08:47:29,643 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Workforce Solutions North Texas Board'
+2023-02-09 08:47:29,643 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Edgin Parkman Fleming & Fleming, PC'
+2023-02-09 08:47:29,643 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Metroplex Welding Supply - WF'
+2023-02-09 08:47:29,644 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'North Texas Rheumatology Associates'
+2023-02-09 08:47:29,644 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Pain Rehab Group of Wichita Falls'
+2023-02-09 08:47:29,644 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Team Pride Extrusions, Inc.'
+2023-02-09 08:47:29,644 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'YMCA - Bill Bartley Branch'
+2023-02-09 08:47:29,647 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:29,881 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10709 HTTP/1.1" 200 None
+2023-02-09 08:47:29,887 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Woodco Building Products
+2023-02-09 08:47:29,891 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:30,088 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10706 HTTP/1.1" 200 None
+2023-02-09 08:47:30,092 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for USA Rock Bit, Inc.
+2023-02-09 08:47:30,093 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-09 08:47:30,280 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10684 HTTP/1.1" 200 None
+2023-02-09 08:47:30,286 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Tex-Oma Builder's Supply
+2023-02-09 08:47:30,286 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Texhoma Christian Care Center TCCC'
+2023-02-09 08:47:30,286 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'White Realty Management Co.'
+2023-02-09 08:47:30,287 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Dr. Ved Ganeshram'
+2023-02-13 08:12:37,773 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:38,055 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-02-13 08:12:38,059 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:38,950 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-02-13 08:12:39,045 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:40,085 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-02-13 08:12:40,164 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:41,094 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-02-13 08:12:41,152 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:42,287 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-02-13 08:12:42,347 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:43,332 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-02-13 08:12:43,411 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:44,179 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-02-13 08:12:44,258 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:45,162 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-02-13 08:12:45,253 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:46,117 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-02-13 08:12:46,189 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:47,088 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-02-13 08:12:47,174 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:48,040 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-02-13 08:12:48,159 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:48,824 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-02-13 08:12:49,176 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:12:49,564 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "POST /v2022_2/apis/3.0/company/configurations/ HTTP/1.1" 201 2884
+2023-02-13 08:12:49,566 utilities.cw_msp_reports INFO:posted new 'MSP Report' successfully --- J-Systems
+2023-02-13 08:12:49,570 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:12:49,847 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems HTTP/1.1" 301 None
+2023-02-13 08:12:50,299 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/systems/ HTTP/1.1" 200 None
+2023-02-13 08:12:50,426 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:12:50,684 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=86509 HTTP/1.1" 301 None
+2023-02-13 08:12:51,868 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=86509 HTTP/1.1" 200 932
+2023-02-13 08:12:51,878 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:12:52,152 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=86508,86507,86506,86505,86504,85496,85491,81495,76842,75913 HTTP/1.1" 301 None
+2023-02-13 08:12:52,812 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=86508,86507,86506,86505,86504,85496,85491,81495,76842,75913 HTTP/1.1" 200 None
+2023-02-13 08:12:52,815 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:12:53,068 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=75912,75911,75910,75909,75908,75907,75674,69878,69872,69871 HTTP/1.1" 301 None
+2023-02-13 08:12:55,136 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=75912,75911,75910,75909,75908,75907,75674,69878,69872,69871 HTTP/1.1" 200 None
+2023-02-13 08:12:55,142 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:12:55,416 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69870,69869,69868,69867,69866,69865,69864,69863,69862,69861 HTTP/1.1" 301 None
+2023-02-13 08:12:57,827 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69870,69869,69868,69867,69866,69865,69864,69863,69862,69861 HTTP/1.1" 200 None
+2023-02-13 08:12:57,830 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:12:58,079 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2416,2290,2385,2206&systems=69860,69859,69858,69857,69647 HTTP/1.1" 301 None
+2023-02-13 08:12:59,260 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2416,2290,2385,2206&systems=69860,69859,69858,69857,69647 HTTP/1.1" 200 None
+2023-02-13 08:12:59,268 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:12:59,520 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=86489 HTTP/1.1" 301 None
+2023-02-13 08:12:59,821 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=86489 HTTP/1.1" 200 None
+2023-02-13 08:12:59,827 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:00,090 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=86488,86487,86486,85492,84776,81493,76889,75877,75876,75875 HTTP/1.1" 301 None
+2023-02-13 08:13:01,456 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=86488,86487,86486,85492,84776,81493,76889,75877,75876,75875 HTTP/1.1" 200 None
+2023-02-13 08:13:01,460 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:01,716 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75874,75873,75872,75871,75868,75519,70246,69841,69838,69837 HTTP/1.1" 301 None
+2023-02-13 08:13:03,818 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=75874,75873,75872,75871,75868,75519,70246,69841,69838,69837 HTTP/1.1" 200 None
+2023-02-13 08:13:03,831 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:04,089 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 301 None
+2023-02-13 08:13:06,630 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69836,69835,69834,69833,69832,69831,69830,69829,69828,69827 HTTP/1.1" 200 None
+2023-02-13 08:13:06,636 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:06,893 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 301 None
+2023-02-13 08:13:09,697 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69826,69825,69824,69823,69822,69821,69820,69819,69818,69817 HTTP/1.1" 200 None
+2023-02-13 08:13:09,709 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:09,972 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 301 None
+2023-02-13 08:13:11,338 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2400,2401,2394,2395,2396,2397,1723,1724&systems=69816,69815,69813,69644 HTTP/1.1" 200 None
+2023-02-13 08:13:11,346 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:11,596 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=88496 HTTP/1.1" 301 None
+2023-02-13 08:13:11,873 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=88496 HTTP/1.1" 200 None
+2023-02-13 08:13:11,884 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:12,161 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=86498,86497,86496,86495,86494,86493,86492,86491,85495,85490 HTTP/1.1" 301 None
+2023-02-13 08:13:12,605 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=86498,86497,86496,86495,86494,86493,86492,86491,85495,85490 HTTP/1.1" 200 None
+2023-02-13 08:13:12,616 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:12,872 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=81494,76875,76874,76860,76841,76744,76743,76742,76741,76740 HTTP/1.1" 301 None
+2023-02-13 08:13:14,168 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=81494,76875,76874,76860,76841,76744,76743,76742,76741,76740 HTTP/1.1" 200 None
+2023-02-13 08:13:14,174 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:14,425 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=76739,75914,75906,75669,75657,75656,75655,69856,69855,69854 HTTP/1.1" 301 None
+2023-02-13 08:13:16,236 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=76739,75914,75906,75669,75657,75656,75655,69856,69855,69854 HTTP/1.1" 200 None
+2023-02-13 08:13:16,241 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:16,514 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69853,69852,69851,69850,69849,69848,69847,69846,69845,69844 HTTP/1.1" 301 None
+2023-02-13 08:13:18,392 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69853,69852,69851,69850,69849,69848,69847,69846,69845,69844 HTTP/1.1" 200 None
+2023-02-13 08:13:18,395 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): us9.app.liongard.com:443
+2023-02-13 08:13:18,649 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk?metrics=2417,1409,1394,1395&systems=69843,69809 HTTP/1.1" 301 None
+2023-02-13 08:13:19,415 urllib3.connectionpool DEBUG:https://us9.app.liongard.com:443 "GET /api/v1/metrics/bulk/?metrics=2417,1409,1394,1395&systems=69843,69809 HTTP/1.1" 200 None
+2023-02-13 08:13:19,423 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:19,557 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations/count HTTP/1.1" 200 22
+2023-02-13 08:13:19,568 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:20,651 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=1 HTTP/1.1" 200 None
+2023-02-13 08:13:20,841 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:21,656 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=2 HTTP/1.1" 200 None
+2023-02-13 08:13:21,739 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:26,579 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=3 HTTP/1.1" 200 None
+2023-02-13 08:13:26,665 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:27,681 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=4 HTTP/1.1" 200 None
+2023-02-13 08:13:27,948 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:28,802 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=5 HTTP/1.1" 200 None
+2023-02-13 08:13:29,135 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:30,146 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=6 HTTP/1.1" 200 None
+2023-02-13 08:13:30,238 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:31,152 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=7 HTTP/1.1" 200 None
+2023-02-13 08:13:31,397 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:32,095 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=8 HTTP/1.1" 200 None
+2023-02-13 08:13:32,271 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:33,251 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=9 HTTP/1.1" 200 None
+2023-02-13 08:13:33,558 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:34,303 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=10 HTTP/1.1" 200 None
+2023-02-13 08:13:34,388 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:34,950 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "GET /v2022_2/apis/3.0/company/configurations?pageSize=1000&page=11 HTTP/1.1" 200 None
+2023-02-13 08:13:35,000 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Single Client Environment  --- Check Inspector Name'
+2023-02-13 08:13:35,000 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'TWG Investments, LTD'
+2023-02-13 08:13:35,000 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'J-Systems'
+2023-02-13 08:13:35,002 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:35,303 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10647 HTTP/1.1" 200 None
+2023-02-13 08:13:35,305 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Wichita Falls Ford
+2023-02-13 08:13:35,305 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Texoma Rheumatology, PLLC'
+2023-02-13 08:13:35,305 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Nocona Housing Authority'
+2023-02-13 08:13:35,305 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Gary Baker & Associates, LLC'
+2023-02-13 08:13:35,305 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Gant, McGee & Baber, PC'
+2023-02-13 08:13:35,307 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:35,519 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10632 HTTP/1.1" 200 None
+2023-02-13 08:13:35,528 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for S-5! Manufacturing
+2023-02-13 08:13:35,532 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:35,719 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10662 HTTP/1.1" 200 None
+2023-02-13 08:13:35,726 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Foundations of Texoma
+2023-02-13 08:13:35,726 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Dr. John Caras'
+2023-02-13 08:13:35,731 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:35,923 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10633 HTTP/1.1" 200 None
+2023-02-13 08:13:35,925 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Agape Church
+2023-02-13 08:13:35,925 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Knowles Door Check Co. Inc.'
+2023-02-13 08:13:35,926 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:36,047 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10668 HTTP/1.1" 200 None
+2023-02-13 08:13:36,051 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Landmark Title
+2023-02-13 08:13:36,051 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Wichita Falls Manufacturing & Machine'
+2023-02-13 08:13:36,054 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:36,687 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10652 HTTP/1.1" 200 None
+2023-02-13 08:13:36,689 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Bowles Construction
+2023-02-13 08:13:36,690 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:37,173 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10657 HTTP/1.1" 200 None
+2023-02-13 08:13:37,180 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Dean Dale SUD
+2023-02-13 08:13:37,180 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Windthorst Federal Credit Union'
+2023-02-13 08:13:37,180 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Breegle Abbey Carpet & Floor'
+2023-02-13 08:13:37,180 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Gary Crouch, CPA'
+2023-02-13 08:13:37,181 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Quatro Oil & Gas, Inc.'
+2023-02-13 08:13:37,185 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:37,639 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10635 HTTP/1.1" 200 None
+2023-02-13 08:13:37,645 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Canton Ford
+2023-02-13 08:13:37,645 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Barnard Insurance Agency, LLP'
+2023-02-13 08:13:37,645 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Web Fire Communications, Inc.'
+2023-02-13 08:13:37,650 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:37,940 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10637 HTTP/1.1" 200 None
+2023-02-13 08:13:37,947 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Eddie Hill's Fun Cycles
+2023-02-13 08:13:37,947 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Bestcare Health Services, Inc'
+2023-02-13 08:13:37,947 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Select Industries, Inc.'
+2023-02-13 08:13:37,948 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:38,245 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10639 HTTP/1.1" 200 None
+2023-02-13 08:13:38,251 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Pierce Sales
+2023-02-13 08:13:38,252 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> "Children's Aid Society of West TX, Inc."
+2023-02-13 08:13:38,252 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Medders Oil Co.'
+2023-02-13 08:13:38,257 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:38,441 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10640 HTTP/1.1" 200 None
+2023-02-13 08:13:38,445 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Foundation Automotive of Wichita Falls
+2023-02-13 08:13:38,447 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:38,566 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10671 HTTP/1.1" 200 None
+2023-02-13 08:13:38,568 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Olney Fuel & Supply
+2023-02-13 08:13:38,568 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Wichita Medical Mgmt, LLC - Affordacare'
+2023-02-13 08:13:38,568 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> "Larry's Marine Center"
+2023-02-13 08:13:38,568 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Rolling Plains Management Corp. Crowell'
+2023-02-13 08:13:38,568 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Workforce Solutions North Texas Board'
+2023-02-13 08:13:38,568 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Edgin Parkman Fleming & Fleming, PC'
+2023-02-13 08:13:38,568 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Metroplex Welding Supply - WF'
+2023-02-13 08:13:38,568 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'North Texas Rheumatology Associates'
+2023-02-13 08:13:38,568 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Pain Rehab Group of Wichita Falls'
+2023-02-13 08:13:38,568 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Team Pride Extrusions, Inc.'
+2023-02-13 08:13:38,568 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'YMCA - Bill Bartley Branch'
+2023-02-13 08:13:38,570 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:38,718 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10709 HTTP/1.1" 200 None
+2023-02-13 08:13:38,722 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Woodco Building Products
+2023-02-13 08:13:38,723 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:38,998 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10706 HTTP/1.1" 200 None
+2023-02-13 08:13:39,003 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for USA Rock Bit, Inc.
+2023-02-13 08:13:39,004 urllib3.connectionpool DEBUG:Starting new HTTPS connection (1): api-na.myconnectwise.net:443
+2023-02-13 08:13:39,147 urllib3.connectionpool DEBUG:https://api-na.myconnectwise.net:443 "PUT /v2022_2/apis/3.0/company/configurations/10684 HTTP/1.1" 200 None
+2023-02-13 08:13:39,154 utilities.cw_msp_reports INFO:Successfully updated 'MSP Report' for Tex-Oma Builder's Supply
+2023-02-13 08:13:39,154 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Texhoma Christian Care Center TCCC'
+2023-02-13 08:13:39,154 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'White Realty Management Co.'
+2023-02-13 08:13:39,155 utilities.cw_msp_reports ERROR:cw_msp_reports.py --> update_reports() --> KeyError : lg_env_to_cw_companies.json is missing --> 'Dr. Ved Ganeshram'
