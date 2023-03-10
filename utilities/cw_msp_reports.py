@@ -33,10 +33,10 @@ def get_all_msp_report_configs():
                             Returned text {req.text}""")
 
         page_configurations = json.loads(req.text)
-
-        for config in page_configurations:
-            if config['type']['id'] == MSP_report_ID:
-                msp_reports.append(config)
+        
+        configs = [config for config in page_configurations
+                   if config['type']['id'] == MSP_report_ID]
+        msp_reports.append(configs)
                 
     return msp_reports
 
