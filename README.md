@@ -8,7 +8,8 @@ the environments to their systems compiled data. To post the data to the correct
 there is a cross reference JSON file named lg_env_to_cw_companies.json. Reading the file
 will give insight to its uses. When given a liongard environment name, it will match it to
 the corresponding Connectwise company ID and vice versa. This assists when taking the matched
-data and running it through the update_reports function. 
+data and running it through the update_reports function. You could also allow a user to specify this
+in their individualized configuration of the script. 
 
 Reading main will answer most questions about the functionality of the program. 
 
